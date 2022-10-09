@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cuppa-joe/static/css/main.2349aa73.css",
-    "main.js": "/cuppa-joe/static/js/main.ef13bcae.js",
+    "main.css": "/cuppa-joe/static/css/main.08a8a2b7.css",
+    "main.js": "/cuppa-joe/static/js/main.e912f9e4.js",
     "static/media/cold-1.jpg": "/cuppa-joe/static/media/cold-1.25d403409a2f0ef4e727.jpg",
     "static/media/hot-1.jpg": "/cuppa-joe/static/media/hot-1.0d56420011cd245c537b.jpg",
     "static/media/coffee-beans.jpg": "/cuppa-joe/static/media/coffee-beans.9375820248d2b279f29e.jpg",
     "index.html": "/cuppa-joe/index.html",
-    "main.2349aa73.css.map": "/cuppa-joe/static/css/main.2349aa73.css.map",
-    "main.ef13bcae.js.map": "/cuppa-joe/static/js/main.ef13bcae.js.map"
+    "main.08a8a2b7.css.map": "/cuppa-joe/static/css/main.08a8a2b7.css.map",
+    "main.e912f9e4.js.map": "/cuppa-joe/static/js/main.e912f9e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.2349aa73.css",
-    "static/js/main.ef13bcae.js"
+    "static/css/main.08a8a2b7.css",
+    "static/js/main.e912f9e4.js"
   ]
 }
