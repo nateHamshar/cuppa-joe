@@ -8,7 +8,9 @@ function App() {
       </div>
       <div className="socials-div">
         <h1 className='socials-header'>Find us on - </h1>
-        
+        <a href="https://www.facebook.com/OleCuppaJoes/" className="facebook-link">
+          Facebook
+        </a>
       </div>
       <div className="hours-div">
         <h1 className="hours-header">Our Hours</h1>

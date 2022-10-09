@@ -53,6 +53,16 @@
   font-family: 'Poppins', sans-serif;
   font-size: 2rem;
 }
+.facebook-link{
+  color: var(--gold-color);
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  font-style: italic;
+}
+.facebook-link::before{
+  content: " ";
+}
 .hours-div{
   height: 30vh;
   background: var(--green-color);
