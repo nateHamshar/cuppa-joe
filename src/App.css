@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400&display=swap');
+:root{
+  --gold-color: #e49057;
+  --green-color: #112105;
+  --brown-color: #7C554E;
+}
+.intro-div{
+  background-image: url("./images/coffee-beans.jpg");
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60vh;
+  width: 100vw;
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Poppins', sans-serif;
+}
+.intro-header{
+  margin-top: 2rem;
+  margin-right: 1rem;
+  text-align: right;
+  color: white;
+  font-weight: 400;
+  font-size: 2.5rem;
+}
+.intro-button{
+  text-align: center;
+  color: white;
+  font-weight: 300;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.5rem;
+  background: rgba(0, 0, 0, 0.226);
+  border: 1px solid white;
+  border-radius: 100vw;
+  width: 40%;
+  margin-left: auto;
+  margin-right: 2rem;
+  margin-top: 1rem;
+}
+.socials-div{
+  height: 11vh;
+  background-color: var(--brown-color);
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 2px solid var(--gold-color);
+  border-bottom: 2px solid var(--gold-color);
+}
+.socials-header{
+  font-weight: 300;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+}
+.hours-div{
+  height: 30vh;
+  background: var(--green-color);
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 2px solid var(--gold-color);
+  padding-bottom: 3rem;
+  padding-top: 3rem;
+}
+.hours-header{
+  font-weight: 300;
+}
+.hours-list{
+  list-style: none;
+  text-align: center;
+  line-height: 1.75rem;
+}
+
+.map-div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--brown-color);
+  color: white;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+.map-header{
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.store-map{
+  width: 80%;
+  height: 80vw;
+  border: 2px solid var(--gold-color);
+}
+.map-address{
+  font-weight: 300;
+  font-size: 1.25rem;
+  margin-top: 1rem;
+}
+
+
+
+.reviews-div{
+  color: white;
+  background-color: var(--green-color);
+  font-family: 'Poppins', sans-serif;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+}
+
+.reviews-header{
+  padding-top: 2rem;
+  text-align: center;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.review{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+.review-text{
+  font-weight: 300;
+  font-size: 1rem;
+  width: 65%;
+  font-style: italic;
+  margin-right: 5%;
+  text-indent: 1rem;
+}
+.pic-right{
+  margin-right: 5%;
+}
+.pic-left{
+  margin-left: 5%;
+}
+.review-image{
+  width: 30%;
+  height: 9rem;
+  border: 2px solid var(--gold-color);
+}
